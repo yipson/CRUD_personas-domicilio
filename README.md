@@ -33,4 +33,4 @@ Dicha base de datos de puede ver en el repositorio con el nombre
 de sap_db
 
 El proyecto esta separado por carpetas, de tal manera que cada parte
-del cogigo realice especificamente su funcion
+del codigo realice especificamente su funcion
