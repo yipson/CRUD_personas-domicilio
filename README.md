@@ -1,7 +1,10 @@
 # CRUD SAP MVT Python-Django
-CRUD (Create Update Read Delete)\n
+CRUD (Create Update Read Delete)
+
 SAP  (System Administration Personnel)
+
 MVT  (Model View Template) patron de diseño
+
 Django -  framework backend de Python
 
 Sencillo CURD en python con el framework
