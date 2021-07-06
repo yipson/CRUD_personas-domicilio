@@ -11,7 +11,7 @@ Sencillo CURD en python con el framework
 Django de Python usando el patron de diseño MVT
 y usando como base de datos PostgreSQL
 
-El sistema realiza las acciones de crea, listar, actualizar y borrar
+El sistema realiza las acciones de crear, listar, actualizar y borrar
 registros de una base de datos en la cual se afectan dos tablas
  1. personas con los campos de:
     -id
